@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**MInhnut11/MInhnut11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MinhNhut11/MinhNhut11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
